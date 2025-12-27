@@ -1,5 +1,5 @@
 # CryptScord V2
-[![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)  
 Small program to send/receive messages using [Discord](https://discord.com/) while adding a layer of encryption.
 
 > [!IMPORTANT]
